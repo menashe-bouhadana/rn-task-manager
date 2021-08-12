@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/menashe-bouhadana/rn-task-manager/static/js/app.b3e9b17e.chunk.js",
+    "app.js.map": "/menashe-bouhadana/rn-task-manager/static/js/app.b3e9b17e.chunk.js.map",
+    "runtime~app.js": "/menashe-bouhadana/rn-task-manager/static/js/runtime~app.4f92d7f2.js",
+    "runtime~app.js.map": "/menashe-bouhadana/rn-task-manager/static/js/runtime~app.4f92d7f2.js.map",
+    "static/js/2.7b480704.chunk.js": "/menashe-bouhadana/rn-task-manager/static/js/2.7b480704.chunk.js",
+    "static/js/2.7b480704.chunk.js.map": "/menashe-bouhadana/rn-task-manager/static/js/2.7b480704.chunk.js.map",
+    "favicon-16.png": "/menashe-bouhadana/rn-task-manager/favicon-16.png",
+    "favicon-32.png": "/menashe-bouhadana/rn-task-manager/favicon-32.png",
+    "favicon.ico": "/menashe-bouhadana/rn-task-manager/favicon.ico",
+    "index.html": "/menashe-bouhadana/rn-task-manager/index.html",
+    "manifest.json": "/menashe-bouhadana/rn-task-manager/manifest.json",
+    "serve.json": "/menashe-bouhadana/rn-task-manager/serve.json",
+    "static/js/2.7b480704.chunk.js.LICENSE.txt": "/menashe-bouhadana/rn-task-manager/static/js/2.7b480704.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.4f92d7f2.js",
+    "static/js/2.7b480704.chunk.js",
+    "static/js/app.b3e9b17e.chunk.js"
+  ]
+}
